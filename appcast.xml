@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VoxelWall</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 11 Jul 2026 17:09:36 +0400</pubDate>
+            <link>https://voxelwall.app</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v2/VoxelWall-2.zip" length="170487718" type="application/octet-stream" sparkle:edSignature="lnaBqyplQ6qUUtixy3JIBFwUFrTZf1Z+QYvdSis3WKHcOvI0uH7W0RWJqX5sOcQ8qx7rih7vCDu/b8JG6/GbDA=="/>
+        </item>
+    </channel>
+</rss>

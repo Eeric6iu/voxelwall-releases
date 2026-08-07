@@ -3,15 +3,14 @@
     <channel>
         <title>VoxelWall</title>
         <item>
-            <title>Build 2 — 自动更新测试</title>
-            <pubDate>Sat, 11 Jul 2026 17:09:36 +0400</pubDate>
+            <title>VoxelWall 1.0.30</title>
+            <pubDate>Fri, 07 Aug 2026 15:34:44 +0400</pubDate>
             <link>https://voxelwall.app</link>
-            <description><![CDATA[<h3>自动更新测试版</h3><p>这是用来验证 VoxelWall「检查更新」功能的测试版。相比你当前的 build 1,仅版本号 +1,功能相同。</p><p>点「安装更新」会自动下载、安装并重启 —— 跟你想要的 Claude 那种更新体验一样。</p>]]></description>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <description><![CDATA[<h3>VoxelWall 1.0.30</h3><p>发布当前已经验证的壁纸库，并继续隐藏仍在开发中的 Neon City Duel、Neon Billboard City 和 Frost Leviathan。</p><p>本更新同时包含最新的壁纸切换、内容下载与应用稳定性改进。</p>]]></description>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v2/VoxelWall-2.zip" length="170487718" type="application/octet-stream" sparkle:edSignature="lnaBqyplQ6qUUtixy3JIBFwUFrTZf1Z+QYvdSis3WKHcOvI0uH7W0RWJqX5sOcQ8qx7rih7vCDu/b8JG6/GbDA=="/>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.30-build30/VoxelWall-1.0.30-build30.zip" length="4067993" type="application/octet-stream" sparkle:edSignature="W1tPKiY/plpXcJf/LA+jgrXTMg4M9crpdViMsFYZZm9KTQnMKmjdbMl0am/WfdwLKk50UPzs0gkjPbDwfdIwBg=="/>
         </item>
     </channel>
 </rss>

@@ -6,7 +6,7 @@
             <title>VoxelWall 1.0.30</title>
             <pubDate>Fri, 07 Aug 2026 15:34:44 +0400</pubDate>
             <link>https://voxelwall.app</link>
-            <description><![CDATA[<h3>VoxelWall 1.0.30</h3><p>发布当前已经验证的壁纸库，并继续隐藏仍在开发中的 Neon City Duel、Neon Billboard City 和 Frost Leviathan。</p><p>本更新同时包含最新的壁纸切换、内容下载与应用稳定性改进。</p>]]></description>
+            <description><![CDATA[<h3>A smoother VoxelWall experience.</h3><p>VoxelWall 1.0.30 improves wallpaper switching and content downloads for a faster, more responsive experience.</p><p>This update also includes performance and stability improvements across the app.</p>]]></description>
             <sparkle:version>30</sparkle:version>
             <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>

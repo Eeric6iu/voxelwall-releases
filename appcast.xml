@@ -3,6 +3,16 @@
     <channel>
         <title>VoxelWall</title>
         <item>
+            <title>VoxelWall 1.0.31</title>
+            <pubDate>Wed, 12 Aug 2026 16:35:00 +0400</pubDate>
+            <link>https://voxelwall.app</link>
+            <description><![CDATA[<h3>Clearer wallpaper setup.</h3><p>VoxelWall 1.0.31 improves wallpaper installation feedback and rendering reliability, so it is easier to tell when a scene is ready.</p><p>This update also includes stability improvements across wallpaper switching and downloads.</p>]]></description>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.31-build31/VoxelWall-1.0.31-build31.zip" length="4172664" type="application/octet-stream" sparkle:edSignature="b1ZmAAjoXSNDg3ie3UVS6nT2967O18oJnuNTxtkJS7GmdVvjNWIm9tgn1p1827ucSg0pvl4Z3Wqcwt+Itq/0Dg=="/>
+        </item>
+        <item>
             <title>VoxelWall 1.0.30</title>
             <pubDate>Fri, 07 Aug 2026 15:34:44 +0400</pubDate>
             <link>https://voxelwall.app</link>

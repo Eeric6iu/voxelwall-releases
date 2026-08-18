@@ -3,6 +3,16 @@
     <channel>
         <title>VoxelWall</title>
         <item>
+            <title>VoxelWall 1.0.32</title>
+            <pubDate>Tue, 18 Aug 2026 20:09:43 +0400</pubDate>
+            <link>https://voxelwall.app</link>
+            <description><![CDATA[<h3>Smoother live wallpapers, in English.</h3><p>VoxelWall 1.0.32 refines English wording throughout the app and improves the performance of Voxel Vortex, Clay Starwell, and Liquid Starfold.</p><p>Your wallpaper library remains unchanged: this release keeps all 37 current wallpapers.</p>]]></description>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.32-build32/VoxelWall-1.0.32-build32.zip" length="4175821" type="application/octet-stream" sparkle:edSignature="f2tSrYHirr/cEh0lRI1HoutsnZ0fCBs4mFeWFA2SWDaprYICX0+eLlCBNODz1AGjGAWWNAizPnsf9fG6/Mv/Dw=="/>
+        </item>
+        <item>
             <title>VoxelWall 1.0.31</title>
             <pubDate>Wed, 12 Aug 2026 16:35:00 +0400</pubDate>
             <link>https://voxelwall.app</link>

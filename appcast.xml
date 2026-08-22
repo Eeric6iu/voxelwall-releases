@@ -3,6 +3,16 @@
     <channel>
         <title>VoxelWall</title>
         <item>
+            <title>VoxelWall 1.0.33</title>
+            <pubDate>Sat, 22 Aug 2026 10:48:00 +0400</pubDate>
+            <link>https://voxelwall.app</link>
+            <description><![CDATA[<h3>Reliable wallpaper updates.</h3><p>VoxelWall 1.0.33 keeps desktop and Lock Screen setup status accurate while macOS finishes applying a wallpaper, and delivers signed, versioned wallpaper updates with a safe fallback.</p><p>This release improves rendering across display aspect ratios and adds ultra-wide Saver media for all 37 current wallpapers.</p>]]></description>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.33-build33/VoxelWall-1.0.33-build33.zip" length="4330941" type="application/octet-stream" sparkle:edSignature="cTfyQFRfBW4K1cny0nM6KofsTp8dUit6wUx+h1+FnvWEYiU55tidGbTiZdIIXg7apsQdJg9RRh+tcJVwlxT5DQ=="/>
+        </item>
+        <item>
             <title>VoxelWall 1.0.32</title>
             <pubDate>Tue, 18 Aug 2026 20:09:43 +0400</pubDate>
             <link>https://voxelwall.app</link>

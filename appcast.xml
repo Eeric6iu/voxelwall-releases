@@ -1,8 +1,23 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>VoxelWall</title>
+        <item>
+            <title>1.0.36</title>
+            <pubDate>Sun, 23 Aug 2026 00:59:55 +0400</pubDate>
+            <link>https://voxelwall.app</link>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>More reliable wallpaper updates.</h3>
+<p>VoxelWall 1.0.36 improves Apply when a newly downloaded wallpaper replaces an older version, so the latest wallpaper starts cleanly and the setup status catches up without requiring an app restart.</p>
+<p>This update also improves secure wallpaper download reliability.</p>
+]]></description>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.36-build36/VoxelWall-1.0.36-build36.zip" length="4353349" type="application/octet-stream" sparkle:edSignature="OsPKuhWtUciefkt1jVh6DfXc5qj5Sjrz8d7z4zS0/YMzMxrav5Pt5axIbrTcIJdc7bo7at6lh3m0+ZQGa2vTCQ=="/>
+        </item>
         <item>
             <title>VoxelWall 1.0.35</title>
             <pubDate>Sat, 22 Aug 2026 21:09:01 +0400</pubDate>
@@ -11,7 +26,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:version>35</sparkle:version>
             <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.35-build35/VoxelWall-1.0.35-build35.zip" length="4353465" type="application/octet-stream" sparkle:edSignature="BAvNQ1KNcJNJgHmaxnaum3suhiOccJWQUFSPS54tEeADFrjTfM8UGCtMgAQQzJXY3h1Fp4KykBh97wphyD0eDg=="></enclosure>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.35-build35/VoxelWall-1.0.35-build35.zip" length="4353465" type="application/octet-stream" sparkle:edSignature="BAvNQ1KNcJNJgHmaxnaum3suhiOccJWQUFSPS54tEeADFrjTfM8UGCtMgAQQzJXY3h1Fp4KykBh97wphyD0eDg=="/>
         </item>
         <item>
             <title>VoxelWall 1.0.34</title>
@@ -21,7 +36,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.34-build34/VoxelWall-1.0.34-build34.zip" length="4342590" type="application/octet-stream" sparkle:edSignature="PUEiAGwVdoqkQhAOpXkpFOGtBQHzkJe9oPkLto0AQZNNJVr16CRcz7mf+FxVPqbNmVyf69YgysLY3Rf9tWfJAw=="></enclosure>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.34-build34/VoxelWall-1.0.34-build34.zip" length="4342590" type="application/octet-stream" sparkle:edSignature="PUEiAGwVdoqkQhAOpXkpFOGtBQHzkJe9oPkLto0AQZNNJVr16CRcz7mf+FxVPqbNmVyf69YgysLY3Rf9tWfJAw=="/>
         </item>
         <item>
             <title>VoxelWall 1.0.33</title>
@@ -31,7 +46,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:version>33</sparkle:version>
             <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.33-build33/VoxelWall-1.0.33-build33.zip" length="4330941" type="application/octet-stream" sparkle:edSignature="cTfyQFRfBW4K1cny0nM6KofsTp8dUit6wUx+h1+FnvWEYiU55tidGbTiZdIIXg7apsQdJg9RRh+tcJVwlxT5DQ=="></enclosure>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.33-build33/VoxelWall-1.0.33-build33.zip" length="4330941" type="application/octet-stream" sparkle:edSignature="cTfyQFRfBW4K1cny0nM6KofsTp8dUit6wUx+h1+FnvWEYiU55tidGbTiZdIIXg7apsQdJg9RRh+tcJVwlxT5DQ=="/>
         </item>
         <item>
             <title>VoxelWall 1.0.32</title>
@@ -41,21 +56,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.32-build32/VoxelWall-1.0.32-build32.zip" length="4175821" type="application/octet-stream" sparkle:edSignature="f2tSrYHirr/cEh0lRI1HoutsnZ0fCBs4mFeWFA2SWDaprYICX0+eLlCBNODz1AGjGAWWNAizPnsf9fG6/Mv/Dw=="></enclosure>
-        </item>
-        <item>
-            <title>VoxelWall 1.0.31</title>
-            <pubDate>Wed, 12 Aug 2026 16:35:00 +0400</pubDate>
-            <link>https://voxelwall.app</link>
-            <description><![CDATA[<h3>Clearer wallpaper setup.</h3><p>VoxelWall 1.0.31 improves wallpaper installation feedback and rendering reliability, so it is easier to tell when a scene is ready.</p><p>This update also includes stability improvements across wallpaper switching and downloads.</p>]]></description>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.31-build31/VoxelWall-1.0.31-build31.zip" length="4172664" type="application/octet-stream" sparkle:edSignature="b1ZmAAjoXSNDg3ie3UVS6nT2967O18oJnuNTxtkJS7GmdVvjNWIm9tgn1p1827ucSg0pvl4Z3Wqcwt+Itq/0Dg=="></enclosure>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.32-build32/VoxelWall-1.0.32-build32.zip" length="4175821" type="application/octet-stream" sparkle:edSignature="f2tSrYHirr/cEh0lRI1HoutsnZ0fCBs4mFeWFA2SWDaprYICX0+eLlCBNODz1AGjGAWWNAizPnsf9fG6/Mv/Dw=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: KuzKOmNFga8p5uFGb86ekVH1JFwjemFvZjdzr5ONW//cvLITkEBaEm9GrpYDuVbwZjbr9G3k6TsAsvoGgWZxCQ==
-length: 5868
+edSignature: 5ykQ/P3rmO5p2w7UULB+jwc15KaYzqOG7PcFDx4PMp6zkROM9ZwCj3GwyK/WMaOwUMJB4oXVZ6kqCFAZSr4HBQ==
+length: 5856
 -->

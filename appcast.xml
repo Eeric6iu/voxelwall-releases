@@ -4,6 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VoxelWall</title>
         <item>
+            <title>VoxelWall 1.0.35</title>
+            <pubDate>Sat, 22 Aug 2026 21:09:01 +0400</pubDate>
+            <link>https://voxelwall.app</link>
+            <description><![CDATA[<h3>Latest wallpaper takes over cleanly.</h3><p>VoxelWall 1.0.35 makes the newly downloaded wallpaper replace the previous renderer immediately, without overlapping two wallpapers or opening Wallpaper Settings unnecessarily.</p><p>This release also refreshes all 37 current wallpaper packages with the latest rendering and display-fit improvements. The wallpaper library size remains unchanged.</p>]]></description>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.35-build35/VoxelWall-1.0.35-build35.zip" length="4353465" type="application/octet-stream" sparkle:edSignature="BAvNQ1KNcJNJgHmaxnaum3suhiOccJWQUFSPS54tEeADFrjTfM8UGCtMgAQQzJXY3h1Fp4KykBh97wphyD0eDg=="></enclosure>
+        </item>
+        <item>
             <title>VoxelWall 1.0.34</title>
             <pubDate>Sat, 22 Aug 2026 18:03:30 +0400</pubDate>
             <link>https://voxelwall.app</link>
@@ -43,18 +53,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.31-build31/VoxelWall-1.0.31-build31.zip" length="4172664" type="application/octet-stream" sparkle:edSignature="b1ZmAAjoXSNDg3ie3UVS6nT2967O18oJnuNTxtkJS7GmdVvjNWIm9tgn1p1827ucSg0pvl4Z3Wqcwt+Itq/0Dg=="></enclosure>
         </item>
-        <item>
-            <title>VoxelWall 1.0.30</title>
-            <pubDate>Fri, 07 Aug 2026 15:34:44 +0400</pubDate>
-            <link>https://voxelwall.app</link>
-            <description><![CDATA[<h3>A smoother VoxelWall experience.</h3><p>VoxelWall 1.0.30 improves wallpaper switching and content downloads for a faster, more responsive experience.</p><p>This update also includes performance and stability improvements across the app.</p>]]></description>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.30-build30/VoxelWall-1.0.30-build30.zip" length="4067993" type="application/octet-stream" sparkle:edSignature="W1tPKiY/plpXcJf/LA+jgrXTMg4M9crpdViMsFYZZm9KTQnMKmjdbMl0am/WfdwLKk50UPzs0gkjPbDwfdIwBg=="></enclosure>
-        </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: UMobw8PZ21GfmOkUKaL3REZEDa331O7JK49yszuxsrR+p5yxNDKXWEI2CrNWMoFAfnvdhPbFoLTwbDRmZ5nMAg==
-length: 5713
+</rss>
+<!-- sparkle-signatures:
+edSignature: KuzKOmNFga8p5uFGb86ekVH1JFwjemFvZjdzr5ONW//cvLITkEBaEm9GrpYDuVbwZjbr9G3k6TsAsvoGgWZxCQ==
+length: 5868
 -->

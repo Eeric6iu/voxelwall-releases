@@ -6,6 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VoxelWall</title>
         <item>
+            <title>1.0.37</title>
+            <pubDate>Sun, 23 Aug 2026 02:49:38 +0400</pubDate>
+            <link>https://voxelwall.app</link>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Reliable wallpaper replacement.</h3>
+<p>VoxelWall 1.0.37 makes Apply finish reliably after an app or wallpaper update. It verifies that the newest wallpaper is actually visible, reloads VoxelWall Live when macOS is still holding an older wallpaper process, and avoids getting stuck on an endless starting message.</p>
+<p>This update also improves compatibility between app versions and downloaded wallpapers.</p>
+]]></description>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.37-build37/VoxelWall-1.0.37-build37.zip" length="4422342" type="application/octet-stream" sparkle:edSignature="IQ5mIaTsiP+jYtkh9VhWK4vBNIvAGUIavsMdm93BYMU/fM+9Q3bDOe+iqDhYhK3P1dHlPgRISM3XM1Zl3q6sAA=="/>
+        </item>
+        <item>
             <title>1.0.36</title>
             <pubDate>Sun, 23 Aug 2026 00:59:55 +0400</pubDate>
             <link>https://voxelwall.app</link>
@@ -61,6 +74,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 5ykQ/P3rmO5p2w7UULB+jwc15KaYzqOG7PcFDx4PMp6zkROM9ZwCj3GwyK/WMaOwUMJB4oXVZ6kqCFAZSr4HBQ==
-length: 5856
+edSignature: 5ewqe97GVNeDnOFtDctXcnNaJQDQ4lH8saPC6Df5e34lzs4XxNG5ZpTlQY/vOyhaoGL5wVNN8cWJFWAQ/qpDBg==
+length: 7005
 -->

@@ -6,6 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VoxelWall</title>
         <item>
+            <title>1.0.38</title>
+            <pubDate>Tue, 25 Aug 2026 04:02:07 +0400</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.0.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Live 2: a stable wallpaper engine.</h3>
+<p>VoxelWall 1.0.38 moves live wallpaper rendering into VoxelWall Live 2. The stable extension stays installed while wallpapers, visuals, tuning, and 30/60 FPS preferences are delivered as changeable content.</p>
+<p>Apply now waits for the exact requested scene to present from Live 2 before showing success. The app no longer treats its temporary preview as proof that the macOS desktop updated.</p>
+<p>You can choose 30 FPS for lower rendering demand or 60 FPS for smoother motion. The Live 2 renderer applies the selected cadence.</p>
+]]></description>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.38-build39/VoxelWall-1.0.38-build39.zip" length="4377809" type="application/octet-stream" sparkle:edSignature="ykVWNNchKtzoa1Uly8eOjU1BTkiP9Mu9fGDcbof1MWzWnl+iSeK6dkVG6guTvYecmWOs1bPJfi1k4HnY2ma+Dg=="/>
+        </item>
+        <item>
             <title>1.0.37</title>
             <pubDate>Sun, 23 Aug 2026 02:49:38 +0400</pubDate>
             <link>https://voxelwall.app</link>
@@ -31,49 +44,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.36-build36/VoxelWall-1.0.36-build36.zip" length="4353349" type="application/octet-stream" sparkle:edSignature="OsPKuhWtUciefkt1jVh6DfXc5qj5Sjrz8d7z4zS0/YMzMxrav5Pt5axIbrTcIJdc7bo7at6lh3m0+ZQGa2vTCQ=="/>
         </item>
-        <item>
-            <title>VoxelWall 1.0.35</title>
-            <pubDate>Sat, 22 Aug 2026 21:09:01 +0400</pubDate>
-            <link>https://voxelwall.app</link>
-            <description><![CDATA[<h3>Latest wallpaper takes over cleanly.</h3><p>VoxelWall 1.0.35 makes the newly downloaded wallpaper replace the previous renderer immediately, without overlapping two wallpapers or opening Wallpaper Settings unnecessarily.</p><p>This release also refreshes all 37 current wallpaper packages with the latest rendering and display-fit improvements. The wallpaper library size remains unchanged.</p>]]></description>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.35-build35/VoxelWall-1.0.35-build35.zip" length="4353465" type="application/octet-stream" sparkle:edSignature="BAvNQ1KNcJNJgHmaxnaum3suhiOccJWQUFSPS54tEeADFrjTfM8UGCtMgAQQzJXY3h1Fp4KykBh97wphyD0eDg=="/>
-        </item>
-        <item>
-            <title>VoxelWall 1.0.34</title>
-            <pubDate>Sat, 22 Aug 2026 18:03:30 +0400</pubDate>
-            <link>https://voxelwall.app</link>
-            <description><![CDATA[<h3>Smoother wallpaper control.</h3><p>VoxelWall 1.0.34 makes it easier to fine-tune a wallpaper after it is active. You can switch between Subtle, Balanced, Intense, and Energy Saver, then apply the new setting without restarting setup.</p><p>This update also improves reliability when the latest wallpaper version takes over on your desktop and Lock Screen.</p>]]></description>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.34-build34/VoxelWall-1.0.34-build34.zip" length="4342590" type="application/octet-stream" sparkle:edSignature="PUEiAGwVdoqkQhAOpXkpFOGtBQHzkJe9oPkLto0AQZNNJVr16CRcz7mf+FxVPqbNmVyf69YgysLY3Rf9tWfJAw=="/>
-        </item>
-        <item>
-            <title>VoxelWall 1.0.33</title>
-            <pubDate>Sat, 22 Aug 2026 10:48:00 +0400</pubDate>
-            <link>https://voxelwall.app</link>
-            <description><![CDATA[<h3>Reliable wallpaper updates.</h3><p>VoxelWall 1.0.33 keeps desktop and Lock Screen setup status accurate while macOS finishes applying a wallpaper, and delivers signed, versioned wallpaper updates with a safe fallback.</p><p>This release improves rendering across display aspect ratios and adds ultra-wide Saver media for all 37 current wallpapers.</p>]]></description>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.33-build33/VoxelWall-1.0.33-build33.zip" length="4330941" type="application/octet-stream" sparkle:edSignature="cTfyQFRfBW4K1cny0nM6KofsTp8dUit6wUx+h1+FnvWEYiU55tidGbTiZdIIXg7apsQdJg9RRh+tcJVwlxT5DQ=="/>
-        </item>
-        <item>
-            <title>VoxelWall 1.0.32</title>
-            <pubDate>Tue, 18 Aug 2026 20:09:43 +0400</pubDate>
-            <link>https://voxelwall.app</link>
-            <description><![CDATA[<h3>Smoother live wallpapers, in English.</h3><p>VoxelWall 1.0.32 refines English wording throughout the app and improves the performance of Voxel Vortex, Clay Starwell, and Liquid Starfold.</p><p>Your wallpaper library remains unchanged: this release keeps all 37 current wallpapers.</p>]]></description>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.32-build32/VoxelWall-1.0.32-build32.zip" length="4175821" type="application/octet-stream" sparkle:edSignature="f2tSrYHirr/cEh0lRI1HoutsnZ0fCBs4mFeWFA2SWDaprYICX0+eLlCBNODz1AGjGAWWNAizPnsf9fG6/Mv/Dw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 5ewqe97GVNeDnOFtDctXcnNaJQDQ4lH8saPC6Df5e34lzs4XxNG5ZpTlQY/vOyhaoGL5wVNN8cWJFWAQ/qpDBg==
-length: 7005
+edSignature: GL0n9tZLiA0VNlQKQzr95i1dJVALwoXvabP7yX2cSCoBGwM1dz88HQhcBWMOamzI3rOVbv4zpPVvhy5AJxyTAw==
+length: 3900
 -->

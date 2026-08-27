@@ -6,6 +6,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VoxelWall</title>
         <item>
+            <title>1.0.39</title>
+            <pubDate>Thu, 27 Aug 2026 21:34:53 +0400</pubDate>
+            <link>https://voxelwall.app</link>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>More reliable wallpaper recovery.</h3>
+<p>VoxelWall now recovers more clearly after sleep or a system update. Apply confirms the wallpaper is truly active before reporting success, and provides clearer setup guidance when macOS needs your attention.</p>
+]]></description>
+            <enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.39-build40/VoxelWall-1.0.39-build40.zip" length="4429069" type="application/octet-stream" sparkle:edSignature="U2uB6ov4IsD40tTwvNJRlFefHSgTNEYew87zNYZpGUw9C7JMcQ445yz4qipsufnjEMYCku4yARPlwf3cr3YsDA=="/>
+        </item>
+        <item>
             <title>1.0.38</title>
             <pubDate>Tue, 25 Aug 2026 04:02:07 +0400</pubDate>
             <sparkle:version>39</sparkle:version>
@@ -47,6 +59,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: GL0n9tZLiA0VNlQKQzr95i1dJVALwoXvabP7yX2cSCoBGwM1dz88HQhcBWMOamzI3rOVbv4zpPVvhy5AJxyTAw==
-length: 3900
+edSignature: wc6Dbpyp6262KBQgWiIg5vdh23d66+hp3N3cX13j6uOUnxH3A4UiQbcUVz+OKFl5ZNfmDzKYeIh8IvBYWHkuCg==
+length: 4890
 -->

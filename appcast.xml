@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VoxelWall</title>
         <item>
+<title>1.0.40</title>
+<pubDate>Sat, 19 Sep 2026 17:56:04 GMT</pubDate>
+<sparkle:version>43</sparkle:version>
+<sparkle:shortVersionString>1.0.40</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+<description><![CDATA[<h2>More worlds. More music. Smoother control.</h2>
+<ul>
+<li>Explore 14 new wallpapers, bringing the collection to 51 animated worlds.</li>
+<li>Feel the music in Liquid Filigree with richer red and blue patterns, brighter colors, and flowing motion that responds to your music.</li>
+<li>Enjoy more even color and lighting in Origami Flight.</li>
+<li>Keep controls responsive while audio connects, with more reliable starts, stops, and recordings.</li>
+<li>Enjoy refreshed Energy Saver videos in both standard and ultrawide formats.</li>
+</ul>
+]]></description>
+<enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.40-build43/VoxelWall-1.0.40-build43.zip" length="4876192" type="application/octet-stream" sparkle:edSignature="Ce/agFA63GZVzzPMTqyb6Y2zRIVSzUR4jgfgIpk1GqSt2O+LdsUHkLGaGcGuouw57mX5UfEDIhgUyF+aztumBQ=="/>
+<voxelwall:download object="releases/VoxelWall-1.0.40-build43.dmg" length="5323349" sha256="6ac942594f84fc0f64ddd899e3ba7c3cb77305ff225805f10dfd2cb73040eccc"/>
+</item>
+<item>
             <title>1.0.39</title>
             <pubDate>Thu, 27 Aug 2026 21:34:53 +0400</pubDate>
             <link>https://voxelwall.app</link>
@@ -59,7 +77,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 
+
 <!-- sparkle-signatures:
-edSignature: 6p0sx5gJaPhRANR7Yyx0Ocqrnp/dnQD1BKeTIuleANXnunyAnwN9ag1XL0cI2B7hh8DUGvZgO01B4xS+6W2uAQ==
-length: 5113
+edSignature: mgVH9Di4W8MzJn+joHFk0hJJjdfXGTBUe4dlF2eix1TZrXEtvdxbLi7+1HCSnzKP7UA5emtUUUICErOqcNimCQ==
+length: 6400
 -->

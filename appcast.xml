@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VoxelWall</title>
         <item>
+<title>1.0.41</title>
+<pubDate>Mon, 21 Sep 2026 18:18:09 GMT</pubDate>
+<sparkle:version>45</sparkle:version>
+<sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+<description><![CDATA[<h2>A smoother, more reliable VoxelWall</h2>
+<ul>
+<li>Browse wallpapers more smoothly with lighter, more efficient previews.</li>
+<li>Improved live wallpaper startup and switching, including restarting playback after using Stop.</li>
+<li>Better troubleshooting support to help us investigate playback issues more accurately.</li>
+</ul>
+]]></description>
+<enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.41-build45/VoxelWall-1.0.41-build45.zip" length="5673460" type="application/octet-stream" sparkle:edSignature="m6vsMJcPsXSUniGJrRJ6xCm+2jQ9iqv4GWpefUf4PqjKs9fjKQrlTDckEVVXJ0siaCScNys6tPQRGfxZemnICA=="/>
+<voxelwall:download object="releases/VoxelWall-1.0.41-build45.dmg" length="6174357" sha256="7d4d49adc2d55234d4b92edd82c0499b6d5125505c65613af8ee00b54a740492"/>
+</item>
+<item>
 <title>1.0.40</title>
 <pubDate>Sat, 19 Sep 2026 17:56:04 GMT</pubDate>
 <sparkle:version>43</sparkle:version>
@@ -78,7 +94,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 </rss>
 
 
+
 <!-- sparkle-signatures:
-edSignature: mgVH9Di4W8MzJn+joHFk0hJJjdfXGTBUe4dlF2eix1TZrXEtvdxbLi7+1HCSnzKP7UA5emtUUUICErOqcNimCQ==
-length: 6400
+edSignature: p8xUJywwOEblyfqlDMebVbVYieg7jOnVr2Cf2fveSK3O0VB9qvo/9KcK7Bbwb30OHmoF/bZxpzvhykOXvlUAAg==
+length: 7480
 -->

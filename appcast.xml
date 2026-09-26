@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VoxelWall</title>
         <item>
+<title>1.0.42</title>
+<pubDate>Sat, 26 Sep 2026 03:51:27 GMT</pubDate>
+<sparkle:version>46</sparkle:version>
+<sparkle:shortVersionString>1.0.42</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+<description><![CDATA[<h2>VoxelWall 1.0.42</h2>
+<ul>
+  <li>Improved reliability when starting, stopping, and switching live wallpapers.</li>
+  <li>Fixed issues that could leave the wallpaper blank during playback or when returning from System Settings.</li>
+  <li>Improved troubleshooting information to help resolve playback issues more quickly.</li>
+</ul>
+]]></description>
+<enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.42-build46/VoxelWall-1.0.42-build46.zip" length="6087358" type="application/octet-stream" sparkle:edSignature="+UOe64fdpm4LTqf/B9F0O1M38r0W9OAdbsLOvsOmT4valbnTkkyJYjDJL1V4NMVp3V/BJ2eaxF1BFE5TuILqBQ=="/>
+<voxelwall:download object="releases/VoxelWall-1.0.42-build46.dmg" length="6619467" sha256="f5ae42c92a5b6348f3aa28f12b9a744f2c100fd753650afedfa3ca8d2d2ce9ea"/>
+</item>
+<item>
 <title>1.0.41</title>
 <pubDate>Mon, 21 Sep 2026 18:18:09 GMT</pubDate>
 <sparkle:version>45</sparkle:version>
@@ -95,7 +111,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 
 
 
+
 <!-- sparkle-signatures:
-edSignature: p8xUJywwOEblyfqlDMebVbVYieg7jOnVr2Cf2fveSK3O0VB9qvo/9KcK7Bbwb30OHmoF/bZxpzvhykOXvlUAAg==
-length: 7480
+edSignature: uJ+jRPOcGWrcmCqKbr+3/ryAoDvdSKMR0HoQVBOuNheigrUcMi+FTmkeVu60rmn2iftal2ecZt68188gP8nABA==
+length: 8560
 -->

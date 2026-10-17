@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VoxelWall</title>
         <item>
+<title>1.0.46</title>
+<pubDate>Sat, 17 Oct 2026 17:44:17 GMT</pubDate>
+<sparkle:version>54</sparkle:version>
+<sparkle:shortVersionString>1.0.46</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+<description><![CDATA[<h2>VoxelWall 1.0.46</h2>
+<ul>
+  <li>Meet VoxelVerse, animated lyrics for your Mac from the team behind VoxelWall, with a special 50% offer for VoxelWall owners.</li>
+  <li>Enjoy a real VoxelVerse preview right inside VoxelWall.</li>
+  <li>Improved wallpaper color sharing helps VoxelVerse match your lyrics to your desktop.</li>
+</ul>
+]]></description>
+<enclosure url="https://github.com/Eeric6iu/voxelwall-releases/releases/download/v1.0.46-build54/VoxelWall-1.0.46-build54.zip" length="6249848" type="application/octet-stream" sparkle:edSignature="dCtykT3bshu/nqFhB3ls+AolbOlRoc/5lbsZruXxcEak4fz+2RzPuiNGbXAUZxoZ5zdXjCTXO5Iu2VKL9gxIDg=="/>
+<voxelwall:download object="releases/VoxelWall-1.0.46-build54.dmg" length="6782386" sha256="48d96ef619964db95d11b90a5b915155d4ee7c09e5f19520d4f66405ecc2f61f"/>
+</item>
+<item>
 <title>1.0.45</title>
 <pubDate>Fri, 16 Oct 2026 20:25:54 GMT</pubDate>
 <sparkle:version>53</sparkle:version>
@@ -147,7 +163,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 
 
 
+
 <!-- sparkle-signatures:
-edSignature: HIVL4d4+vDo9en7bKIL9WsMgLTC3Hbjn6WYokf58k7HU7Qr5UldQkcuiR7Uq507VVLXTReZUtRpUsOq2GVpAAQ==
-length: 11018
+edSignature: vlqUD9eXhCuTY0yjx/qkbcF24x0nUEmgNUTos1AI7svbeoz/sZOV2GTBXuDkaK3TmpvOvQpkPAj6euZ9T0k2Dw==
+length: 12098
 -->
